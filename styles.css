@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.holder {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Set height to the full viewport height to center vertically */
+}
+
+.item-1 {
+  /* Your styles for item-1 */
+}
